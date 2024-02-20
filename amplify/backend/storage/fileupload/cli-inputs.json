@@ -1,0 +1,12 @@
+{
+  "resourceName": "fileupload",
+  "policyUUID": "5fbce15a",
+  "bucketName": "skinimages-dermiq-122323182827-dev",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "groupAccess": {}
+}

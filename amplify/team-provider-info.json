@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "dermiq2f7582ac": {}
+      },
+      "storage": {
+        "fileupload": {}
+      },
+      "api": {
+        "dermiq": {}
       }
     }
   }
