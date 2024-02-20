@@ -3,6 +3,8 @@ import "./App.css";
 import { withAuthenticator } from "@aws-amplify/ui-react";
 import "@aws-amplify/ui-react/styles.css";
 
+import { Storage } from "aws-amplify";
+import { uploadData } from 'aws-amplify/storage';
 import { API, graphqlOperation, Storage } from "aws-amplify";
 
 
